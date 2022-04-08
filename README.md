@@ -1,16 +1,24 @@
-<h1 align="center" >Bem vindos!!! ao Projeto Reprograma</h1>
+# EXERCÍCIO SEMANA 01 COM JAVASCRIPT
+
+<h1 align="center"> PROJETO DA REPROGRAMA BACK-END</h1>
+<hr/>
+
+<img align="right" src="https://i.ibb.co/FWdT2pX/08-04-2022-16-25-02-REC.png" width="80px" height="80px">
+</a><br />
+
+   ## Aulas ministrada pela Raissa_Barata
+
+<p align="left"><b>O que aprendi?</b></p>
 
 
-<img align="right" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.typeform.com%2Fimages%2FvaUz6jYB6fbw%2Fimage%2Fdefault&imgrefurl=https%3A%2F%2Freprograma.typeform.com%2Fto%2FaR9oYtnF&tbnid=5bW8GElx6G35sM&vet=12ahUKEwjWkIyYzOT2AhX1Q7gEHYABDFQQMygAegUIARCmAQ..i&docid=LoA25ERS7HaxQM&w=799&h=219&q=logo%20REPROGRAMA&ved=2ahUKEwjWkIyYzOT2AhX1Q7gEHYABDFQQMygAegUIARCmAQ" alt="Nilva" largura="80" altura="80" />
-Em
-<p>Back-End na REPROGRAMA</p>
-Em
+
 <p>Atividade Semana 1</p>
-1. HTML
-2. CSS
+1. Criar um arquivo em HTML 
+2. Criar um arquivo utilizando a extensão CSS
 
 ** Aprendizados:
-- Git = Utilizando o versionador;
+- Git = Utilizando os comandos do versionando para enviar o
+projeto para GITHUB.
 
 
 *** Ferramentas:
